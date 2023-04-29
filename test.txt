@@ -2,3 +2,6 @@ hello world
 
 git status -> Melihat satatus
 git add
+git commit -m "pesan"
+git log
+git log --oneline
